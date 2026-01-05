@@ -1,0 +1,13 @@
+name = "Essential"
+filename = "essential.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/essential.jar"
+hash-format = ""
+hash = ""
+
+[option]
+optional = true
+default = false
+description = "Mód na propojení."

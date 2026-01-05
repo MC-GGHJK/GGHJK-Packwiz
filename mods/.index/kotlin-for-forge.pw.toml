@@ -1,8 +1,0 @@
-name = "Kotlin For Forge"
-filename = "kotlinff.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/kotlinff.jar"
-hash-format = ""
-hash = ""

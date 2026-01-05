@@ -1,8 +1,0 @@
-name = "FerriteCore
-filename = "ferritecore.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/ferritecore.jar"
-hash-format = ""
-hash = ""

@@ -1,0 +1,8 @@
+name = "Bookshelf"
+filename = "bookshelf"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/"
+hash-format = ""
+hash = ""

@@ -1,0 +1,13 @@
+name = "Chat Impressive Animation"
+filename = "chatIA.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/chatIA.jar"
+hash-format = ""
+hash = ""
+
+[option]
+optional = true
+default = false 
+description = "Animace Chatu"

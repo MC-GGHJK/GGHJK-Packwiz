@@ -1,8 +1,0 @@
-name = "Create Ultimate Factory"
-filename = "createUF.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/createUF.jar"
-hash-format = ""
-hash = ""

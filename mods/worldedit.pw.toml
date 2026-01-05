@@ -1,0 +1,13 @@
+name = "WorldEdit"
+filename = "worldedit.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/worldedit.jar"
+hash-format = "sha256"
+hash = "350e7716a92770009f0d188c6fbe740796dc4db05e4336d15a88bb5665093ef5"
+
+[option]
+optional = true
+default = false
+description = "Rychleji Stavěj."

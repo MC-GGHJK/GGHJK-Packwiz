@@ -1,0 +1,8 @@
+name = "Create: Dragons Plus"
+filename = "createDP.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/createDP.jar"
+hash-format = ""
+hash = ""

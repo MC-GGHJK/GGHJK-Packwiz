@@ -1,0 +1,8 @@
+name = "AEInfinityBooster"
+filename = "aeinfinitybooster.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/aeinfinitybooster.jar"
+hash-format = ""
+hash = ""

@@ -1,0 +1,8 @@
+name = "Caelus"
+filename = "caelus"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/caelus.jar"
+hash-format = ""
+hash = ""

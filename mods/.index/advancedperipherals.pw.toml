@@ -1,8 +1,0 @@
-name = "Advanced Peripherals"
-filename = "AdvancedPeripherals.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/AdvancedPeripherals.jar"
-hash-format = ""
-hash = ""

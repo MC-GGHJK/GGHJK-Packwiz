@@ -1,0 +1,8 @@
+name = "Create Power Loader"
+filename = "createPW.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/createPW.jar"
+hash-format = ""
+hash = ""

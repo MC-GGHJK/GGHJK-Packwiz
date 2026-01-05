@@ -1,0 +1,8 @@
+name = "Chunky"
+filename = "chunky.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/chunky.jar"
+hash-format = ""
+hash = ""

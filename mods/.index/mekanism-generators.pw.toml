@@ -1,8 +1,0 @@
-name = "Mekanism Generators"
-filename = "mekG.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/mekG.jar"
-hash-format = ""
-hash = ""

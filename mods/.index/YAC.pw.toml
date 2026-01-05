@@ -1,8 +1,0 @@
-name = "Yet Another Config"
-filename = "YAC.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/YAC.jar"
-hash-format = ""
-hash = ""

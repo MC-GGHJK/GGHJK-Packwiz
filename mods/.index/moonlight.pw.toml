@@ -1,8 +1,0 @@
-name = "Moonlight"
-filename = "moonlight.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/moonlight.jar"
-hash-format = ""
-hash = ""

@@ -1,0 +1,8 @@
+name = "Mekanism"
+filename = "Mekanism.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/Mekanism.jar"
+hash-format = ""
+hash = ""

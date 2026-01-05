@@ -1,8 +1,0 @@
-name = "Simple Voice Chat"
-filename = "voicechat.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/voicechat.jar"
-hash-format = ""
-hash = ""

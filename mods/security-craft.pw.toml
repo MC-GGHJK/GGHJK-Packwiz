@@ -1,0 +1,8 @@
+name = "SecurityCraft"
+filename = "[1.21.1] SecurityCraft.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/[1.21.1] SecurityCraft.jar"
+hash-format = ""
+hash = ""

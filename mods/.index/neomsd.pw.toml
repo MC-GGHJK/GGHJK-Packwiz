@@ -1,8 +1,0 @@
-name = "NeoForged MTR Station Decoration"
-filename = "neoMSD.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/neoMSD.jar"
-hash-format = ""
-hash = ""

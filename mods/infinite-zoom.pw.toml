@@ -1,0 +1,8 @@
+name = "Infinite Zoom"
+filename = "iz.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/iz.jar"
+hash-format = ""
+hash = ""

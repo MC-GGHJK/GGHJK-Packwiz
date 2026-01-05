@@ -1,8 +1,0 @@
-name = "CraterLib"
-filename = "CraterLib"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/CraterLib.jar"
-hash-format = ""
-hash = ""

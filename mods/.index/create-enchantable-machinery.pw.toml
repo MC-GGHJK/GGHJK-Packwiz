@@ -1,8 +1,0 @@
-name = "Create Enchantable Machinery"
-filename = "createEM.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/createEM.jar"
-hash-format = ""
-hash = ""

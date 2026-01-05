@@ -1,0 +1,8 @@
+name = "Freecam"
+filename = "freecam.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/freecam.jar"
+hash-format = ""
+hash = ""

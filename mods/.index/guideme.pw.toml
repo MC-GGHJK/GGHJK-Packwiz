@@ -1,8 +1,0 @@
-name = "GuideME"
-filename = "guideme.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/guideme.jar"
-hash-format = ""
-hash = ""

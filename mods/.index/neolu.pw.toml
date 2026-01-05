@@ -1,8 +1,0 @@
-name = "NeoForged London Underground Addon"
-filename = "neoLU.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/neoLU.jar"
-hash-format = ""
-hash = ""

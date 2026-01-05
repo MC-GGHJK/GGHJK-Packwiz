@@ -1,8 +1,0 @@
-name = "Clumps"
-filename = "Clumps.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/Clumps.jar"
-hash-format = ""
-hash = ""

@@ -1,0 +1,8 @@
+name = "Mekanism Covers"
+filename = "mekc.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/mekc.jar"
+hash-format = ""
+hash = ""
