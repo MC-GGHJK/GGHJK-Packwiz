@@ -1,16 +1,13 @@
-filename = 'chatplus-neoforge-2.7.0.jar'
-name = 'Chat Plus'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Chat Plus"
+filename = "chatplus.jar"
+side = "client"
 
 [download]
-hash = 'c68ffed833d5a836d56adf5fbb0729d5489298eb36f4dfb7e2212b66218aae9d410b13208065de1a9cf37514bc68aba81802984a536abfbd80f4989f2e98d2b4'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/cJlZ132G/versions/4HV9KOe1/chatplus-neoforge-2.7.0.jar'
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/"
+hash-format = ""
+hash = ""
 
-[update.modrinth]
-mod-id = 'cJlZ132G'
-version = '4HV9KOe1'
+[option]
+optional = true
+default = false 
+description = "Zvětšení chatu a překlad."

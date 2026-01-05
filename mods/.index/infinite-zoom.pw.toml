@@ -1,16 +1,8 @@
-filename = 'infinitezoom-1.21-1.21.1-neoforge.jar'
-name = 'Infinite Zoom'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Infinite Zoom"
+filename = "iz.jar"
+side = "both"
 
 [download]
-hash = 'aea25a2339d0c3c3b3f8d401423fc9d4f555725c829fca3ed3ca888d6665f23ab63f2a2370072adf0482a0d8df20c6e3e9d07dd5b084c7c495b96af5ab023570'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/pS3Sez5p/versions/Gzv8BCi6/infinitezoom-1.21-1.21.1-neoforge.jar'
-
-[update.modrinth]
-mod-id = 'pS3Sez5p'
-version = 'Gzv8BCi6'
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/iz.jar"
+hash-format = ""
+hash = ""

@@ -1,0 +1,13 @@
+name = "NeoForged Replay Mod"
+filename = "reforgedplaymod.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/reforgedplaymod.jar"
+hash-format = ""
+hash = ""
+
+[option]
+optional = true
+default = false
+description = "Narhávej a pak edituj."

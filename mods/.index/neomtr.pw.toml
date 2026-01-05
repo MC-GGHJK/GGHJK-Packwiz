@@ -1,16 +1,8 @@
-filename = 'NeoMTR-300.6.1+1.21.1+neoforge.jar'
-name = 'NeoMTR'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
+name = "NeoForged MTR"
+filename = "neoMTR.jar"
+side = "both"
 
 [download]
-hash = 'aefbcf98e120d6194210611de32b79899b21ff8d19d372974a39d3d5631c23d65036cbcf30ddc1f2e2d9c8ca2c800b6f270a27e9127b40f6b0c44f7c32d25c23'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/xilU2EKS/versions/Eo1RNucl/NeoMTR-300.6.1%2B1.21.1%2Bneoforge.jar'
-
-[update.modrinth]
-mod-id = 'xilU2EKS'
-version = 'Eo1RNucl'
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/neoMTR.jar"
+hash-format = ""
+hash = ""

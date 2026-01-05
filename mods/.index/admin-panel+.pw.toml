@@ -1,16 +1,8 @@
-filename = 'admin_panel-4.4.0-neoforge-1.21.1.jar'
-name = 'Admin Panel+'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Admin Panel +"
+filename = "admin_panel.jar"
+side = "both"
 
 [download]
-hash = '5107b26013a9b074594213ed722c258d4770a303e9aeafd7b90c42bbcdd937ab6aa3370ad7e26df7137a32a7e4128eea47ab8598a18c883b96c7ee2b47e5bfb9'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/UqY7Wft5/versions/f1G9DEFd/admin_panel-4.4.0-neoforge-1.21.1.jar'
-
-[update.modrinth]
-mod-id = 'UqY7Wft5'
-version = 'f1G9DEFd'
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/admin_panel.jar"
+hash-format = ""
+hash = ""

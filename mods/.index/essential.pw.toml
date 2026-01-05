@@ -1,16 +1,13 @@
-filename = 'Essential_1-3-10_neoforge_1-21-1.jar'
-name = 'Essential Mod'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Essential"
+filename = "essential.jar"
+side = "both"
 
 [download]
-hash = '4a210e550895242950f5cbd893fdf336423d4a5f8b81b36c311aafcc6432488722b42fdc2c2f2f59d44cf789ce7279234d79ccd37a7c168cbc9909d4087628f3'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/k2ZPuTBm/versions/gVJod7dy/Essential_1-3-10_neoforge_1-21-1.jar'
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/essential.jar"
+hash-format = ""
+hash = ""
 
-[update.modrinth]
-mod-id = 'k2ZPuTBm'
-version = 'gVJod7dy'
+[option]
+optional = true
+default = false
+description = "Mód na propojení."
