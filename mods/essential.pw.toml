@@ -1,9 +1,9 @@
 name = "Essential"
 filename = "essential.jar"
-side = "both"
+side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/essential.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/essential.jar"
 hash-format = ""
 hash = ""
 

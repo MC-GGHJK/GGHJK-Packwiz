@@ -3,7 +3,7 @@ filename = "reforgedplaymod.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods/reforgedplaymod.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/reforgedplaymod.jar"
 hash-format = ""
 hash = ""
 
