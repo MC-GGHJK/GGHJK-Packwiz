@@ -1,0 +1,8 @@
+name = "Clumps"
+filename = "Clumps.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/Clumps.jar"
+hash-format = "sha256"
+hash = "ce00a29d4af946cea87a2f1e1ecf8232488da97fe89819486cefa279046096aa"

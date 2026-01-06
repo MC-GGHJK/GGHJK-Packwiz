@@ -1,0 +1,8 @@
+name = "Elytra Slot"
+filename = "elytraslot.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/elytraslot.jar"
+hash-format = "sha256"
+hash = "d2c77481a6b5d23319624d5c1ef8ab5baf6a347d506e71cc3c1af4a93ad56645"

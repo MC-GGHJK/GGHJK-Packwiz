@@ -1,0 +1,8 @@
+name = "Prickle"
+filename = "prickle.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/prickle.jar"
+hash-format = "sha256"
+hash = "cfc9e054a56fa14ec19c89e981849061547469da3efb4e13a0e1ff0fb75310d6"

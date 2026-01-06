@@ -1,0 +1,8 @@
+name = "Jade"
+filename = "jade.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/jade.jar"
+hash-format = "sha256"
+hash = "b5a2ae41412905bfc3f40d55761fead4cbe32dceb2b1e601378d8ebe1a7e6df7"

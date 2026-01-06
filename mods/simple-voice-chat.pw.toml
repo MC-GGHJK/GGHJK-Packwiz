@@ -1,0 +1,8 @@
+name = "Simple Voice Chat"
+filename = "voicechat.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/voicechat.jar"
+hash-format = "sha256"
+hash = "3e352544574092bb8f0960c78371511b73cd21998975d3eec076d3102289919b"

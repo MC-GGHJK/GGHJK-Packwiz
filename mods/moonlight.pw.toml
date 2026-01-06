@@ -1,0 +1,8 @@
+name = "Moonlight"
+filename = "moonlight.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/moonlight.jar"
+hash-format = "sha256"
+hash = "cc1aa5eca6c9ff314a847d9e1ba3117fa4a136a4e948e3ed3a32e9ce727f4376"

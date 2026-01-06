@@ -1,0 +1,8 @@
+name = "Admin Panel +"
+filename = "admin_panel.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/admin_panel.jar"
+hash-format = "sha256"
+hash = "91d0685ebb03970163a2ed46cd7c776141f0d94451c478dd96c68325ff603a90"

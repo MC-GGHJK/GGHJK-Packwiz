@@ -1,0 +1,8 @@
+name = "GuideME"
+filename = "guideme.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/guideme.jar"
+hash-format = "sha256"
+hash = "673de718c2c710785c3b7541096a80c81dab178776addf53a232095255bfafca"

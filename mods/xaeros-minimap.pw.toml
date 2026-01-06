@@ -1,0 +1,8 @@
+name = "Xaeros Minimap"
+filename = "XaerosM.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/XaerosM.jar"
+hash-format = "sha256"
+hash = ""

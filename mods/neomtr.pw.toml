@@ -1,0 +1,8 @@
+name = "NeoForged MTR"
+filename = "neoMTR.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/neoMTR.jar"
+hash-format = "sha256"
+hash = "f94bdea4ed61567b26674026acfcf02c2f5b2a54a6606d5791b420e84d52f857"

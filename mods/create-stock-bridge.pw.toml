@@ -1,0 +1,8 @@
+name = "Create Stock Bridge"
+filename = "createSB.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/createSB.jar"
+hash-format = "sha256"
+hash = "286af8761895e093f69176cfc1ed7de9b6420250efb4be1aafbf96da9f146885"

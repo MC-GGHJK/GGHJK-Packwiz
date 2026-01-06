@@ -1,0 +1,8 @@
+name = "TrafficCraft"
+filename = "trafficcraft.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/trafficcraft.jar"
+hash-format = "sha256"
+hash = ""

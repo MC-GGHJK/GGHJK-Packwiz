@@ -1,0 +1,8 @@
+name = "modelfix"
+filename = "modelfix.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/modelfix.jar"
+hash-format = "sha256"
+hash = "2f9d504720cf187e480c0b313dddfd5e3c3a1fdc0e95e346cf17fe26bf0593f6"

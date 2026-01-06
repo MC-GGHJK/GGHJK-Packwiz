@@ -1,0 +1,8 @@
+name = "Advanced Peripherals"
+filename = "AdvancedPeripherals.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/AdvancedPeripherals.jar"
+hash-format = "sha256"
+hash = "5d6bbe979db83587d073a77739c29a760220667f91d59b8739d0311e090ce9a0"

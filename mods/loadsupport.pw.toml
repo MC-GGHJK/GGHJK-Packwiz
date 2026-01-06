@@ -1,0 +1,8 @@
+name = "Load Support"
+filename = "loadsupport.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/loadsupport.jar"
+hash-format = "sha256"
+hash = "d87134f64cb46e51673a02a4933e92b35b88c539e81b3161a7075298b3fe7fbd"

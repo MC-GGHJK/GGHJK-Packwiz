@@ -1,0 +1,8 @@
+name = "Architectury"
+filename = "architectury.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/architectury.jar"
+hash-format = "sha256"
+hash = "475d191afdd228a5bc6ac00d66d49f9e57132128c255ed7dc40c51e4f2abb460"

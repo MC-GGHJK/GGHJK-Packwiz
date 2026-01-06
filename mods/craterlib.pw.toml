@@ -1,0 +1,8 @@
+name = "CraterLib"
+filename = "CraterLib"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/CraterLib.jar"
+hash-format = "sha256"
+hash = "520345b00f0442ffd79fa44cf5b123785f6b64412ed6d8448c37b64878c9cf68"

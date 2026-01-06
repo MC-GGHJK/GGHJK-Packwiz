@@ -1,0 +1,8 @@
+name = "Create Framed"
+filename = "createF.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/createF.jar"
+hash-format = "sha256"
+hash = "11a0d782621e85032a8e9f32a9b5da7052ea32f3fb4c6d28f61d5dc5d14e5c0c"

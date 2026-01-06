@@ -1,0 +1,8 @@
+name = "Curios API"
+filename = "curios.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/curios.jar"
+hash-format = "sha256"
+hash = "7ef047289945208ad57a196dd013ffe14e22b62069496c025d94d0f84d4a7ea2"
