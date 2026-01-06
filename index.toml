@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "827ad579434ba80622a3f2481dacd1122d7187a0d150959450b2c9eee169ed49"
+hash = "5ae2340bf69c860238145b0ecb794b1c06e2997f45ac6d83e938f2be0e2134bb"
 metafile = true
 
 [[files]]
@@ -194,10 +194,6 @@ metafile = true
 file = "mods/immediatelyfast.pw.toml"
 hash = "8b604ba7d5268e4cb9fe9d27178f15cb37f8040880bdce8f91eb04b61acdc995"
 metafile = true
-
-[[files]]
-file = "mods/index.toml"
-hash = "600f3d7dfc2dd0b15a4b8409bfa8656d1fbeb064651104d3e50334f6bcfcd59a"
 
 [[files]]
 file = "mods/infinite-zoom.pw.toml"
@@ -283,10 +279,6 @@ metafile = true
 file = "mods/neomtr.pw.toml"
 hash = "263657d532fcc40a735d31cf25a109e9315b30f23b897ea78fb2b968ff2b88f1"
 metafile = true
-
-[[files]]
-file = "mods/pack.toml"
-hash = "d600c71854c6c9b58b193259c886319765c1c071c574e4da878a0b60e90344e8"
 
 [[files]]
 file = "mods/prickle.pw.toml"
