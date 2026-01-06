@@ -1,8 +1,0 @@
-name = "Architectury"
-filename = "architectury.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/architectury.jar"
-hash-format = ""
-hash = ""

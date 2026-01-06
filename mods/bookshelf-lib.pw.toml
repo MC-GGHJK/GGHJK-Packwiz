@@ -1,8 +1,0 @@
-name = "Bookshelf"
-filename = "bookshelf.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/bookshelf.jar"
-hash-format = ""
-hash = ""

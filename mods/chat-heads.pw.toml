@@ -1,8 +1,0 @@
-name = "Chat Heads"
-filename = "chat_heads.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/chat_heads.jar"
-hash-format = ""
-hash = ""

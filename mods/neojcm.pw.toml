@@ -1,8 +1,0 @@
-name = "NeoForged Joban Client Mod"
-filename = "neoJCM.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/neoJCM.jar"
-hash-format = ""
-hash = ""

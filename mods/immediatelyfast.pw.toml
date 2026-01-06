@@ -1,8 +1,0 @@
-name = "ImmediatelyFast"
-filename = "IF.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/IF.jar"
-hash-format = ""
-hash = ""

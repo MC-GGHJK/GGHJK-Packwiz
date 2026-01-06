@@ -1,8 +1,0 @@
-name = "Create"
-filename = "create.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/create.jar"
-hash-format = ""
-hash = ""

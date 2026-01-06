@@ -1,8 +1,0 @@
-name = "Entityculling"
-filename = "entityculling.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/entityculling.jar"
-hash-format = ""
-hash = ""
