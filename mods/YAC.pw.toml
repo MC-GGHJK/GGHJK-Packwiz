@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/YAC.jar"
 hash-format = "sha256"
-hash = ""
+hash = "648612d3b3b9074e123d0017406e9833651ad3a83bf430bbc44fdb7a542d6dcc"

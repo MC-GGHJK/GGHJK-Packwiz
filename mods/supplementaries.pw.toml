@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/supplementaries.jar"
 hash-format = "sha256"
-hash = ""
+hash = "9f2e910ff1a31cbf69abf479a40c7f44772ac36a259b1d7eb659e09139cf46f0"

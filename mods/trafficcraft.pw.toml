@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/trafficcraft.jar"
 hash-format = "sha256"
-hash = ""
+hash = "0435a1ebb816c4b1e647a77c65be8d1633db6710b6109954aec5900564aa7a2f"

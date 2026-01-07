@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/worldedit.jar"
 hash-format = "sha256"
-hash = "350e7716a92770009f0d188c6fbe740796dc4db05e4336d15a88bb5665093ef5"
+hash = "f67835e750dc1703651934ad33d8d1fbb2f6d1336b8aa0c828043cd80740a875"
 
 [option]
 optional = true
