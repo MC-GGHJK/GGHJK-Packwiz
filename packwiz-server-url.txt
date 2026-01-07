@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/main/pack.toml
