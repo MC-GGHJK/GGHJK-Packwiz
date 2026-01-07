@@ -3,6 +3,6 @@ filename = "caelus"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/caelus.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/caelus.jar"
 hash-format = "sha256"
 hash = "bc5dfb1c4c9981736164f4f9a58e24189fd943ae3fb49aec02708fa63bdce572"

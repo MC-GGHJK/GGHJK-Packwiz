@@ -3,7 +3,7 @@ filename = "worldedit.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/worldedit.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/worldedit.jar"
 hash-format = "sha256"
 hash = "f67835e750dc1703651934ad33d8d1fbb2f6d1336b8aa0c828043cd80740a875"
 

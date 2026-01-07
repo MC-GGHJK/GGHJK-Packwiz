@@ -3,6 +3,6 @@ filename = "slideshow.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/slideshow.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/slideshow.jar"
 hash-format = "sha256"
 hash = "da04501f05722fc8e2e17757f51205814463c95a22093911fc8c3ca3c30411d5"

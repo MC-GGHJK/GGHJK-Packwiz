@@ -3,7 +3,7 @@ filename = "chatplus.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/chatplus.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/chatplus.jar"
 hash-format = "sha256"
 hash = "0d7923fc0644413e466e86214becc46bf879d5b4f7fc07d79cad43e4b6f7967e"
 

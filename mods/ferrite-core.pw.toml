@@ -3,6 +3,6 @@ filename = "ferritecore.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/ferritecore.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/ferritecore.jar"
 hash-format = "sha256"
 hash = "db049cad8980d1c6394567b5fc2c1f170c3f598315108c270ff19131d06243b4"

@@ -3,6 +3,6 @@ filename = "enchdesc.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/enchdesc.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/enchdesc.jar"
 hash-format = "sha256"
 hash = "ae34ef3c434f886b434d6c7780ccd765860c8485e12a30b93e2530bd7b5149fd"

@@ -3,6 +3,6 @@ filename = "XaerosM.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/XaerosM.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/XaerosM.jar"
 hash-format = "sha256"
 hash = "d53e29431a85b20349cc010193f8a7d671129068256ab27369dc04c096419037"

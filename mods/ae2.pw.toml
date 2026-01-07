@@ -3,6 +3,6 @@ filename = "appliedenergistics.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/appliedenergistics.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/appliedenergistics.jar"
 hash-format = "sha256"
 hash = "a2986de6b700ea349c5694eb76d10c85901c7e9cf73c1d898a8e872a9d5c31e8"

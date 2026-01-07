@@ -3,6 +3,6 @@ filename = "kotlinff.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/kotlinff.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/kotlinff.jar"
 hash-format = "sha256"
 hash = "97aee462ac7cbd8db45f5f6cbb622c1031ef9ee47db432c7c29e683167746080"

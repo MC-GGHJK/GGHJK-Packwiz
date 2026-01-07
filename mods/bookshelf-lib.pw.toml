@@ -3,6 +3,6 @@ filename = "bookshelf.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/bookshelf.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/bookshelf.jar"
 hash-format = "sha256"
 hash = "c6008655aaf4e853e4cad3a26f64cfc2194b8c006b7bc2f88755c8d2f6dfdb94"

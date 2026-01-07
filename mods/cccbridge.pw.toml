@@ -3,6 +3,6 @@ filename = "cccbridge.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/cccbridge.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/cccbridge.jar"
 hash-format = "sha256"
 hash = "9223eab4070351a52527b2559769073da9e50ed6b1818f875e41a63114210338"

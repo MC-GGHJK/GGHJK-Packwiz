@@ -3,6 +3,6 @@ filename = "[1.21.1] SecurityCraft.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/[1.21.1] SecurityCraft.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/[1.21.1] SecurityCraft.jar"
 hash-format = "sha256"
 hash = "e68637c4e2c28261e08948b1203218ff1d87a30637d293096bd3d4ede864e812"

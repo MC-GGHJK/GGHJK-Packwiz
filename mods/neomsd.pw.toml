@@ -3,6 +3,6 @@ filename = "neoMSD.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/neoMSD.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/neoMSD.jar"
 hash-format = "sha256"
 hash = "4afe1c231db290d0ae0c6c1da8df29739816ff47ca782f0297ca65ae08b80bcb"

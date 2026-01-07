@@ -3,6 +3,6 @@ filename = "createUF.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/createUF.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/createUF.jar"
 hash-format = "sha256"
 hash = "db53ed29d10f004ab18e810807a2cff208db4a52fb7491c5b86ae7aeddd6869f"

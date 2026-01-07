@@ -3,6 +3,6 @@ filename = "createEI.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/createEI.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/createEI.jar"
 hash-format = "sha256"
 hash = "4a40ea5efffc28789180ab468896038eccd71120071a25f555a9595efa0793d7"

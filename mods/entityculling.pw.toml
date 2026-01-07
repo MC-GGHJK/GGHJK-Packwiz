@@ -3,6 +3,6 @@ filename = "entityculling.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/entityculling.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/entityculling.jar"
 hash-format = "sha256"
 hash = "756ed95a018dd8d761225164255f74f23cad39d599fadadc10b8f0395eead405"

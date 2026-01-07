@@ -3,6 +3,6 @@ filename = "aeinfinitybooster.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/aeinfinitybooster.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/aeinfinitybooster.jar"
 hash-format = "sha256"
 hash = "d5fd666598c9932603fb56bb74c1de32359639cf05f0b8675b1558cdd0744459"

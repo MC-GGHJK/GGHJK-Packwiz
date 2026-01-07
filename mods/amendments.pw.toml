@@ -3,6 +3,6 @@ filename = "amendments.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/amendments.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/amendments.jar"
 hash-format = "sha256"
 hash = "c632ff8c0043706590c1c8d35ba715e28b481c4de5cefd9a671bc96f7f0e8356"

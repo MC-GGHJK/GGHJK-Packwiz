@@ -3,6 +3,6 @@ filename = "createDP.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/createDP.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/createDP.jar"
 hash-format = "sha256"
 hash = "4e9835a894a72e1978527a0643084af96f5bca9304df9945320fe5b97eb6f292"

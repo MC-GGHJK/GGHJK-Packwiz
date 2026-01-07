@@ -3,6 +3,6 @@ filename = "chat_heads.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/chat_heads.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/chat_heads.jar"
 hash-format = "sha256"
 hash = "94410d645c77b5e48fae0a5cd27f8d959f4fe7a33579ffd5a981ed6914f1c3ff"

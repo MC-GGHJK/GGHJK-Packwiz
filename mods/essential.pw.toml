@@ -3,7 +3,7 @@ filename = "essential.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/main/mods1/essential.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/essential.jar"
 hash-format = "sha256"
 hash = "ceae78fa877f088bf48c326b240a5f14709a00205da0d6a56bf988906b171af7"
 
